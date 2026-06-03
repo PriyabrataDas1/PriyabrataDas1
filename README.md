@@ -17,6 +17,14 @@ I am interested in combining experimental and computational approaches to addres
 
 ## Research Experience
 
+### Institute of Life Sciences (ILS), Bhubaneswar
+
+**Ongoing Research Internship**
+
+* Working on biomaterials and tissue engineering-related research.
+* Involved in hydrogel and scaffold development.
+* Participating in biomaterial characterization and cell-based studies.
+
 ### Indian Institute of Science (IISc), Bangalore
 
 **Research Intern (Medical Imaging & AI)**
@@ -34,14 +42,6 @@ I am interested in combining experimental and computational approaches to addres
 * Conducted cell culture procedures and biological sample preparation.
 * Assisted in hydrogel preparation and rheological characterization.
 * Participated in animal handling and IVIS imaging studies.
-
-### Institute of Life Sciences (ILS), Bhubaneswar
-
-**Ongoing Research Internship**
-
-* Working on biomaterials and tissue engineering-related research.
-* Involved in hydrogel and scaffold development.
-* Participating in biomaterial characterization and cell-based studies.
 
 ### ICMR–RMRC, Bhubaneswar
 
