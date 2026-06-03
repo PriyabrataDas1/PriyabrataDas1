@@ -2,74 +2,116 @@
 
 ## About Me
 
-Biomedical Engineering Undergraduate at the National Institute of Technology Rourkela with interests in:
+Biomedical Engineering Undergraduate at the National Institute of Technology (NIT) Rourkela with interests in:
 
-* Biomaterials
-* Tissue Engineering
-* Drug Delivery Systems
-* Medical Imaging
-* Artificial Intelligence in Healthcare
-* Molecular Dynamics Simulations (GROMACS)
+- Biomaterials
+- Tissue Engineering
+- Drug Delivery Systems
+- Medical Imaging
+- Artificial Intelligence in Healthcare
+- Computational Biomaterials
+- Molecular Dynamics Simulations (GROMACS)
+
+---
+
+## Research Experience
+
+### Indian Institute of Science (IISc), Bangalore
+Research Internship (Medical Imaging & AI)
+
+- Brain MRI/X-ray anomaly detection
+- Medical image segmentation
+- U-Net and CNN development
+- Feature extraction and weak-label generation
+- Deep learning for biomedical image analysis
+
+### Institute of Life Sciences (ILS), Bhubaneswar
+Research Internship (Biomaterials & Cell Biology)
+
+- Cell culture
+- RNA isolation and RT-qPCR
+- Hydrogel fabrication
+- Rheological characterization
+- Tumor biology studies
+
+### Institute of Life Sciences (ILS), Bhubaneswar
+Ongoing Research Internship
+
+- Hydrogel-based tissue engineering
+- GelMA, DexMA and AlgMA biomaterials
+- Cell-material interactions
+- Biomaterial characterization
+- Scaffold development
+
+### ICMR-RMRC, Bhubaneswar
+
+- Clinical diagnostics
+- CLIA-based assays
+- Molecular biology workflows
+- Translational biomedical research
+
+---
 
 ## Current Research Interests
 
-* Hydrogel-based tissue engineering scaffolds
-* DexMA, GelMA and AlgMA biomaterials
-* Cell–material interactions
-* Nanoparticle-mediated drug delivery
-* PLGA nanoparticle–membrane interactions
-* Computational biomaterials
+- Hydrogel-based Tissue Engineering
+- Biomaterials and Scaffolds
+- Cell–Material Interactions
+- Drug Delivery Systems
+- PLGA Nanoparticles
+- Computational Biomaterials
+- Molecular Dynamics Simulations
+- AI for Biomedical Applications
 
-## Projects
+---
+
+## Featured Projects
 
 ### Brain Tumor Segmentation using Deep Learning with GANs
-
-* U-Net based MRI segmentation
-* DCGAN-based synthetic data augmentation
-* PyTorch implementation
+- U-Net based segmentation
+- GAN-based data augmentation
+- MRI image analysis
+- Medical AI research
 
 ### Muscle Fatigue Monitoring System using EMG
+- Arduino-based biomedical instrumentation
+- EMG signal processing
+- Real-time fatigue detection
 
-* Arduino-based biosignal monitoring
-* Real-time fatigue detection
-* RS2334 EMG sensor integration
+### AGRI-FLOW
+- Industrial Design Application
+- Smart agricultural drying system
 
-### Ongoing Work
+---
 
-* MARTINI 3 molecular dynamics simulations using GROMACS
-* Biomaterial scaffold development for tissue engineering applications
-
-## Skills
+## Technical Skills
 
 ### Biomaterials & Tissue Engineering
+GelMA, DexMA, AlgMA, Cell Culture, Hydrogels, Scaffolds, Rheology
 
-* Hydrogel Fabrication
-* Scaffold Development
-* Rheological Characterization
-* Cell Culture
+### Simulation
+GROMACS, Molecular Dynamics, Computational Biomaterials
 
-### Computational Tools
+### AI & Medical Imaging
+PyTorch, U-Net, GANs, CNNs, MRI Segmentation, Medical Image Processing
 
-* GROMACS
-* Python
-* PyTorch
-* MATLAB
-* ImageJ
+### Programming
+Python, MATLAB, C++, SQL, Linux
 
-### Biomedical Engineering
+---
 
-* Medical Imaging
-* EMG Signal Monitoring
-* Biosignal Processing
-* Biomechanics
+## Publications
 
-## Education
+**Advancing Hepatitis-B Treatment through CLIA-Based Immune Profiling and Innovative Drug Development Strategies**
 
-B.Tech in Biomedical Engineering
-National Institute of Technology Rourkela
+- India International Science Festival (IISF)
+- Young Scientists Conference (YSC)
+- DOI: 10.13140/RG.2.2.20983.64167
 
-## Contact
+---
 
-GitHub: PriyabrataDas1
+## Connect
 
-Always open to research collaborations and academic discussions in biomaterials, tissue engineering, and biomedical engineering.
+- NIT Rourkela
+- LinkedIn
+- GitHub Projects
